@@ -1,0 +1,15 @@
+server:
+  port:8003
+player:
+  username: tri
+  age: 21
+  address: HCM, Viet Nam
+  firstname: Tran
+#  Yaml ho tro cac kieu array, boolean,...
+  map: {k1: v1,k2:v2}
+  list:
+    -list1
+    - list2
+  isActive: true
+  birth: 2004/05/22
+
